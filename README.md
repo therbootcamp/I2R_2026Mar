@@ -2,7 +2,7 @@
 
 To Do:
 
-- [ ] index.html
+- [x] index.html
 - [ ] update download-link for RStudio project folder
 - [ ] installation.html
 - [ ] activate github pages building from branch main / (root)
