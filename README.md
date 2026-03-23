@@ -3,8 +3,8 @@
 To Do:
 
 - [x] index.html
-- [ ] update download-link for RStudio project folder
-- [ ] installation.html
+- [x] update download-link for RStudio project folder
+- [x] installation.html
 - [ ] activate github pages building from branch main / (root)
 - [ ] _sessions/Willkommen
 - [ ] _sessions/WarumR
@@ -15,3 +15,4 @@ To Do:
 - [ ] _sessions/Analyse (incl. interactive and solution)
 - [ ] update feedback form (link)
 - [ ] _sessions/NaechsteSchritte
+- [ ] activate links to sessions on index.html
