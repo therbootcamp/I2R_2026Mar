@@ -5,7 +5,7 @@ To Do:
 - [x] index.html
 - [x] update download-link for RStudio project folder
 - [x] installation.html
-- [ ] activate github pages building from branch main / (root)
+- [x] activate github pages building from branch main / (root)
 - [ ] _sessions/Willkommen
 - [ ] _sessions/WarumR
 - [ ] _sessions/R(Studio)
